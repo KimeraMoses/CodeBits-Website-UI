@@ -8,11 +8,11 @@ This was the second project done during the final Iteration of my Codebits Inter
 ![](img/demo2.PNG?raw=true "demo2")
 
 # Features
-> Mobie Responsiveness
+> Mobie Responsiveness: 
  We had a task of making sure that the web pages are made responsive on different device widths
 
-> Semantic tags 
+> Semantic tags:
  Use of the know semantic tags was also a checkpoint during the project, making sure that we used only tags that were neccessary.
 
-> Beautiful UI and UX ✨
+> Beautiful UI and UX ✨:
  Bringing out the webpages as they appear in the mockup was the major goal of this task.
